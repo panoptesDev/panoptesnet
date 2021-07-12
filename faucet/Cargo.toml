@@ -1,5 +1,5 @@
 [package]
-name = "panoptes-faucet"
+name = "solana-faucet"
 version = "1.7.3"
 description = "Panoptes Faucet"
 authors = ["Solana Maintainers <maintainers@solana.foundation>"]
