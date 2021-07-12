@@ -1,5 +1,5 @@
 [package]
-name = "panoptes-net-utils"
+name = "solana-net-utils"
 version = "1.7.3"
 description = "Panoptes Network Utilities"
 authors = ["Solana Maintainers <maintainers@solana.foundation>"]
