@@ -25,10 +25,10 @@ nix = "0.19.0"
 sysctl = "0.4.0"
 
 [lib]
-name = "panoptes_sys_tuner"
+name = "solana_sys_tuner"
 
 [[bin]]
-name = "panoptes-sys-tuner"
+name = "solana-sys-tuner"
 path = "src/main.rs"
 
 [package.metadata.docs.rs]

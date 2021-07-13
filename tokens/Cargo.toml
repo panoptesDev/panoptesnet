@@ -1,5 +1,5 @@
 [package]
-name = "panoptes-tokens"
+name = "solana-tokens"
 description = "Panoptes blockchain, Rebuilt for Scale"
 authors = ["Solana Maintainers <maintainers@solana.foundation>"]
 edition = "2018"
