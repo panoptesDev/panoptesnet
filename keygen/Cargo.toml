@@ -1,5 +1,5 @@
 [package]
-name = "panoptes-keygen"
+name = "solana-keygen"
 version = "1.7.3"
 description = "Panoptes key generation utility"
 authors = ["Solana Maintainers <maintainers@solana.foundation>"]
@@ -22,7 +22,7 @@ solana-version = { path = "../version", version = "=1.7.3" }
 tiny-bip39 = "0.7.0"
 
 [[bin]]
-name = "panoptes-keygen"
+name = "solana-keygen"
 path = "src/keygen.rs"
 
 [package.metadata.docs.rs]

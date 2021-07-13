@@ -1,5 +1,5 @@
 [package]
-name = "panoptes-genesis-utils"
+name = "solana-genesis-utils"
 version = "1.7.3"
 description = "Solana Genesis Utils"
 authors = ["Solana Maintainers <maintainers@solana.foundation>"]
