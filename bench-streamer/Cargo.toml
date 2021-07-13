@@ -1,7 +1,7 @@
 [package]
 authors = ["Solana Maintainers <maintainers@solana.foundation>"]
 edition = "2018"
-name = "panoptes-bench-streamer"
+name = "solana-bench-streamer"
 version = "1.7.3"
 repository = "https://github.com/solana-labs/solana"
 license = "Apache-2.0"
