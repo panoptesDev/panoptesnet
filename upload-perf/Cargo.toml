@@ -1,5 +1,5 @@
 [package]
-name = "panoptes-upload-perf"
+name = "solana-upload-perf"
 version = "1.7.3"
 description = "Metrics Upload Utility"
 authors = ["Solana Maintainers <maintainers@solana.foundation>"]
@@ -14,7 +14,7 @@ serde_json = "1.0.56"
 solana-metrics = { path = "../metrics", version = "=1.7.3" }
 
 [[bin]]
-name = "panoptes-upload-perf"
+name = "solana-upload-perf"
 path = "src/upload-perf.rs"
 
 
