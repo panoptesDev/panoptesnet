@@ -3874,7 +3874,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-account-decoder"
+name = "solana-account-decoder"
 version = "1.7.3"
 dependencies = [
  "Inflector",
@@ -3895,7 +3895,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-accounts-bench"
+name = "solana-accounts-bench"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -3936,7 +3936,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-banking-bench"
+name = "solana-banking-bench"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -4007,7 +4007,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-bench-exchange"
+name = "solana-bench-exchange"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -4036,7 +4036,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-bench-streamer"
+name = "solana-bench-streamer"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -4048,7 +4048,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-bench-tps"
+name = "solana-bench-tps"
 version = "1.7.3"
 dependencies = [
  "bincode",
@@ -4359,7 +4359,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-dos"
+name = "solana-dos"
 version = "1.7.3"
 dependencies = [
  "bincode",
@@ -4419,7 +4419,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-faucet"
+name = "solana-faucet"
 version = "1.7.3"
 dependencies = [
  "bincode",
@@ -4500,7 +4500,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-genesis"
+name = "solana-genesis"
 version = "1.7.3"
 dependencies = [
  "base64 0.12.3",
@@ -4532,7 +4532,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-gossip"
+name = "solana-gossip"
 version = "1.7.3"
 dependencies = [
  "bincode",
@@ -4574,7 +4574,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-install"
+name = "solana-install"
 version = "1.7.3"
 dependencies = [
  "atty",
@@ -4607,7 +4607,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-keygen"
+name = "solana-keygen"
 version = "1.7.3"
 dependencies = [
  "bs58",
@@ -4678,7 +4678,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-ledger-tool"
+name = "solana-ledger-tool"
 version = "1.7.3"
 dependencies = [
  "assert_cmd",
@@ -4744,7 +4744,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-log-analyzer"
+name = "solana-log-analyzer"
 version = "1.7.3"
 dependencies = [
  "byte-unit",
@@ -4786,7 +4786,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-merkle-root-bench"
+name = "solana-merkle-root-bench"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -4823,7 +4823,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-net-shaper"
+name = "solana-net-shaper"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -4926,7 +4926,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-poh-bench"
+name = "solana-poh-bench"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -5087,7 +5087,7 @@ dependencies = [
  "serial_test",
  "solana-account-decoder",
  "solana-client",
- "panoptes-faucet",
+ "solana-faucet",
  "solana-gossip",
  "solana-ledger",
  "solana-logger 1.7.3",
@@ -5256,7 +5256,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-stake-accounts"
+name = "solana-stake-accounts"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -5270,7 +5270,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-stake-monitor"
+name = "solana-stake-monitor"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -5356,7 +5356,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-store-tool"
+name = "solana-store-tool"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -5384,7 +5384,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-sys-tuner"
+name = "solana-sys-tuner"
 version = "1.7.3"
 dependencies = [
  "clap",
@@ -5400,7 +5400,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-tokens"
+name = "solana-tokens"
 version = "1.7.3"
 dependencies = [
  "bincode",
@@ -5455,7 +5455,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-upload-perf"
+name = "solana-upload-perf"
 version = "1.7.3"
 dependencies = [
  "serde_json",
@@ -5463,7 +5463,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-validator"
+name = "solana-validator"
 version = "1.7.3"
 dependencies = [
  "base64 0.12.3",
@@ -5541,7 +5541,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "panoptes-watchtower"
+name = "solana-watchtower"
 version = "1.7.3"
 dependencies = [
  "clap",
