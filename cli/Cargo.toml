@@ -54,7 +54,7 @@ solana-core = { path = "../core", version = "=1.7.3" }
 tempfile = "3.1.0"
 
 [[bin]]
-name = "panoptes"
+name = "solana"
 path = "src/main.rs"
 
 [package.metadata.docs.rs]
