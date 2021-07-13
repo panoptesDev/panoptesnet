@@ -1,7 +1,7 @@
 [package]
 authors = ["Solana Maintainers <maintainers@solana.com>"]
 edition = "2018"
-name = "panoptes-log-analyzer"
+name = "solana-log-analyzer"
 description = "The panoptesa cluster network analysis tool"
 version = "1.7.3"
 repository = "https://github.com/solana-labs/solana"
@@ -19,7 +19,7 @@ solana-logger = { path = "../logger", version = "=1.7.3" }
 solana-version = { path = "../version", version = "=1.7.3" }
 
 [[bin]]
-name = "panoptes-log-analyzer"
+name = "solana-log-analyzer"
 path = "src/main.rs"
 
 [package.metadata.docs.rs]
